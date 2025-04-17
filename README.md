@@ -1,1 +1,3 @@
 # xo-game
+
+## minmax algorthim
